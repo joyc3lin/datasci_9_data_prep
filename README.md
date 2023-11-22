@@ -21,7 +21,7 @@ Focus on selecting datasets suitable for a machine learning experiment, with an 
 + This dataset was used in the <code>model_dev1</code> folder
 + In <code>model_dev1</code>, create 3 folders named <code>data</code>, <code>model</code>, and <code>scripts</code>
   + In <code>data</code>, create two more folders named <code>processed</code> and <code>raw</code>
-  + In <code>scripts</code>, create three python files named <code>p1_extract.py<code>, <code>p2_transform.py</code>, and <code>p3_compute.py</code>
+  + In <code>scripts</code>, create three python files named <code>p1_extract.py</code>, <code>p2_transform.py</code>, and <code>p3_compute.py</code>
 
   + In [p1_extract.py](https://github.com/joyc3lin/datasci_9_data_prep/blob/main/model_dev1/scripts/p1_extract.py), load in the dataset and save it as both a csv file and a pickle file to the <code>raw</code> folder
   +  In [p2_transform.py](https://github.com/joyc3lin/datasci_9_data_prep/blob/main/model_dev1/scripts/p2_transform.py), load in the pickle file from the <code>raw</code> folder
