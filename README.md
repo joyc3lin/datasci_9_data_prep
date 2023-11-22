@@ -28,7 +28,6 @@ Focus on selecting datasets suitable for a machine learning experiment, with an 
 
 
 **To clean data:**
-
     +  Clean column names by removing white spaces, special characters, and making all letters lowercase
     +  check data types and change any to match what is needed
     +  Check for missingness and drop rows with missing data
